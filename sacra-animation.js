@@ -26,13 +26,13 @@
     shapeSize: 130,           // px. All three shapes scale relative to this.
 
     // ── SVG file URLs ────────────────────────────────────────────────────────
-    // Upload the three SVG files (from shapes/ folder) to Webflow Assets,
-    // then paste the asset URLs here. Leave empty to use geometric placeholders.
-    svgUrls: {
-      triangle:  'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0f1ef3b4d7e73c4f6ec8ba_triangle%20(1).svg',
-      circle:    'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0f1ef47637658ae8b572b8_circle%20(1).svg',
-      rectangle: 'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0f1ef3b4d7e73c4f6ec8c0_rectangle%20(1).svg',
-    },
+  // Upload the three SVG files (from shapes/ folder) to Webflow Assets,
+  // then paste the asset URLs here. Leave empty to use geometric placeholders.
+  svgUrls: {
+    triangle:  'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0eeffa08de0a82cfc2384c_c0f05fee41b760549bd628ec198372e4_triangle.svg',
+    circle:    'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0eeffa7d199a7856e077b8_741dbb8d90b037466a512d0c33434531_circle.svg',
+    rectangle: 'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0eeffadf316c5684a9a66c_3675bac964b2823f44d1e8615d3423a6_rectangle.svg',
+  },
 
     // ── Physics ──────────────────────────────────────────────────────────────
     gravity:      1.2,    // How fast shapes fall. Higher = heavier gravity.
