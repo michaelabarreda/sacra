@@ -29,9 +29,9 @@
     // Upload the three SVG files (from shapes/ folder) to Webflow Assets,
     // then paste the asset URLs here. Leave empty to use geometric placeholders.
     svgUrls: {
-      triangle:  'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0eeffa08de0a82cfc2384c_triangle.svg',
-      circle:    'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0eeffa7d199a7856e077b8_circle.svg',
-      rectangle: 'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0eeffadf316c5684a9a66c_rectangle.svg',
+      triangle:  'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0f1ef3b4d7e73c4f6ec8ba_triangle%20(1).svg',
+      circle:    'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0f1ef47637658ae8b572b8_circle%20(1).svg',
+      rectangle: 'https://cdn.prod.website-files.com/6a0b67fec95a279e00155660/6a0f1ef3b4d7e73c4f6ec8c0_rectangle%20(1).svg',
     },
 
     // ── Physics ──────────────────────────────────────────────────────────────
